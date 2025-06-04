@@ -1,7 +1,5 @@
 # AR/VR Module – Unity Labs
 
-> _"You might wonder what Artificial Intelligence has to do with Augmented and Virtual Reality... but once you step into the 3D world, the connection becomes more real than ever."_ 🤖🕶️
-
 This journey through Unity's 3D environment wasn't just about placing objects or designing spaces — it was about **understanding immersive systems**, and **preparing the ground for intelligent, interactive environments**.
 
 While these labs may look purely visual or game-oriented at first glance, the **logic, interaction, and real-time responsiveness** we built here are exactly where AI fits in — from smart NPCs to adaptive puzzles and virtual agents.
